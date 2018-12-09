@@ -7,3 +7,4 @@ C:\Users\Erik\source\repos\Light_Bulbs_Solution\Light_Bulbs_Solution\obj\Release
 C:\Users\Erik\source\repos\Light_Bulbs_Solution\Light_Bulbs_Solution\obj\Release\Light_Bulbs_Solution.csproj.CoreCompileInputs.cache
 C:\Users\Erik\source\repos\Light_Bulbs_Solution\Light_Bulbs_Solution\obj\Release\Light_Bulbs_Solution.exe
 C:\Users\Erik\source\repos\Light_Bulbs_Solution\Light_Bulbs_Solution\obj\Release\Light_Bulbs_Solution.pdb
+C:\Users\Erik\source\repos\Light_Bulbs_Solution\Light_Bulbs_Solution\obj\Release\Light_Bulbs_Solution.csprojAssemblyReference.cache
