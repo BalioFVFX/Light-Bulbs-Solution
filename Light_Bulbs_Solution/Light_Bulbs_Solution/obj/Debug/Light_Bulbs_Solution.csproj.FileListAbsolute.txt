@@ -1,0 +1,10 @@
+C:\Users\Erik\source\repos\Light_Bulbs_Solution\Light_Bulbs_Solution\bin\Debug\Light_Bulbs_Solution.exe.config
+C:\Users\Erik\source\repos\Light_Bulbs_Solution\Light_Bulbs_Solution\bin\Debug\Light_Bulbs_Solution.exe
+C:\Users\Erik\source\repos\Light_Bulbs_Solution\Light_Bulbs_Solution\bin\Debug\Light_Bulbs_Solution.pdb
+C:\Users\Erik\source\repos\Light_Bulbs_Solution\Light_Bulbs_Solution\obj\Debug\Light_Bulbs_Solution.csprojAssemblyReference.cache
+C:\Users\Erik\source\repos\Light_Bulbs_Solution\Light_Bulbs_Solution\obj\Debug\Light_Bulbs_Solution.Form1.resources
+C:\Users\Erik\source\repos\Light_Bulbs_Solution\Light_Bulbs_Solution\obj\Debug\Light_Bulbs_Solution.Properties.Resources.resources
+C:\Users\Erik\source\repos\Light_Bulbs_Solution\Light_Bulbs_Solution\obj\Debug\Light_Bulbs_Solution.csproj.GenerateResource.cache
+C:\Users\Erik\source\repos\Light_Bulbs_Solution\Light_Bulbs_Solution\obj\Debug\Light_Bulbs_Solution.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\Light_Bulbs_Solution\Light_Bulbs_Solution\obj\Debug\Light_Bulbs_Solution.exe
+C:\Users\Erik\source\repos\Light_Bulbs_Solution\Light_Bulbs_Solution\obj\Debug\Light_Bulbs_Solution.pdb
